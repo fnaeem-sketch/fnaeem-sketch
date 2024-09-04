@@ -35,7 +35,7 @@ I use GitHub as a platform to showcase my projects, collaborate with fellow tech
 ---
 
 💡 **Fun Fact**:<br>
-An engineer by day and an adventurer by weekends, especially passionate about rock climbing, trekking, and hiking!
+An engineer by day and an adventurer by weekends, especially passionate about rock climbing, running, trekking, and hiking!
 
 ---
 
@@ -44,6 +44,7 @@ An engineer by day and an adventurer by weekends, especially passionate about ro
 ---
 
 > "Every problem is a gift—without problems we would not grow." – Tony Robbins
+> "It is the mark of an educated mind to be able to entertain a thought without accepting it." – Aristotle
 
 
 <!--
